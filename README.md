@@ -24,7 +24,7 @@ Setelah selesai npm run dev untuk menjalankan servernya.
 sekarang bisa diakses di browser http://localhost:8082/#/
 
 Aplikasi ini menggunakan feathers sebagai API backendnya.
-untuk tutorial backendnya dapat dilihat [CRUD Feathers](https://github.com/agungid/crud_feathers.git)
+untuk tutorial backendnya dapat dilihat [CRUD Feathers](https://github.com/agungid/crud_feathers)
 
 [Vue](https://github.com/vuejs/vue-cli) [Vuex](https://github.com/vuejs/vuex)
 
